@@ -17,19 +17,19 @@ Esta aplicación permite descargar y recortar cualquier vídeo de YouTube en for
 
 ## Instalación
 
-1. Clona este repositorio en tu máquina local:
+1. Clona el repositorio:
 
    ```bash
    git clone https://github.com/Rodriwwi/DescargadorYoutube.git
    ```
 
-2. Navega al directorio del proyecto:
+2. Abre el directorio del proyecto:
 
    ```bash
    cd DescargadorYoutube
    ```
 
-3. Instala las dependencias necesarias:
+3. Instala las dependencias:
 
    ```bash
    pip install -r requirements.txt
@@ -43,7 +43,7 @@ Esta aplicación permite descargar y recortar cualquier vídeo de YouTube en for
    python descargadorYT.py
    ```
 
-2. Sigue las instrucciones en pantalla para ingresar la URL del vídeo de YouTube que deseas descargar.
+2. Sigue las instrucciones en pantalla para ingresar la URL del vídeo de YouTube que quieres descargar.
 
 3. Selecciona el formato de salida (`.mp3` o `.mp4`).
 
